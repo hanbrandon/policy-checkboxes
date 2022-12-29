@@ -2,9 +2,11 @@
 
 /**
  * Plugin Name: Policy Checkboxes
+ * Plugin URI: https://github.com/hanbrandon/policy-checkboxes
  * Description: Adds checkboxes for privacy policy and terms and conditions to the WooCommerce registration form and allows users to set the pages in the WordPress dashboard.
  * Version: 1.0
  * Author: Sang Hyun Han
+ * Author URI: https://github.com/hanbrandon
  * License: GPL2
  */
 
